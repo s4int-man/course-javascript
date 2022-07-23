@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { randomStringArray, randomValue as random } from '../../scripts/helper';
 import {
   bindFunction,

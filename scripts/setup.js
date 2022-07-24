@@ -1,5 +1,4 @@
-global.fetch = require('node-fetch-polyfill');
-
+/* eslint-disable prettier/prettier */
 const homeworkContainer = document.createElement('div');
 
 homeworkContainer.id = 'homework-container';
